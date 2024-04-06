@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EasyBank accounts related local APIs"
+  contactDetails:
+    name: "Akermi yahia - Engineer"
+    email: "ya.akermi@esi-sba.dz"
+  onCallSupport:
+    - (213) 540-752-251
+    - (213) 661-161-378

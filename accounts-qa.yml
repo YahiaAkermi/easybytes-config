@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EasyBank accounts related QA APIs"
+  contactDetails:
+    name: "akermi abderaouf - Qa lead"
+    email: "yahia.akermi@gmail.com"
+  onCallSupport:
+    - (213) 666-753-298
+    - (213) 661-161-564
