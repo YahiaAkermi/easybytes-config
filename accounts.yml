@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EasyBank accounts related locale APIs"
+  message: "Welcome to EasyBank accounts related yahia APIs"
   contactDetails:
     name: "Akermi yahia - Engineer"
     email: "ya.akermi@esi-sba.dz"
